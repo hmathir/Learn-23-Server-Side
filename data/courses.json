@@ -2,55 +2,97 @@
   {
     "id": "1",
     "courseName": "Full Stack Development",
-    "image": "https://miro.medium.com/max/800/0*ZEPJsASfB2z7hi_0",
+    "image": "https://i.ibb.co/FhWBSm7/full-stack-course.png",
     "rating": "4.3",
     "price": "4000",
     "students": "3401",
+    "videos": "40",
+    "quiz": "10",
+    "instractor": {
+      "name": "Jhankar Mahbub",
+      "profileImg": "https://i.ibb.co/0CXYcq6/jhankar-bhai.jpg",
+      "details": "Jhankar Mahbub is professional Full Stack Developer since 1971."
+    },
     "details": "A full stack web developer is a person who can develop both client and server software. In addition to mastering HTML and CSS, he/she also knows how to: Program a browser (like using JavaScript, jQuery, Angular, or Vue) Program a server (like using PHP, ASP, Python, or Node)."
   },
   {
     "id": "2",
     "courseName": "Java Programming",
-    "image": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg",
+    "image": "https://i.ibb.co/2q5s0fM/java-Course.jpg",
     "rating": "4.1",
     "price": "8000",
     "students": "1502",
+    "videos": "70",
+    "quiz": "15",
+    "instractor": {
+      "name": "Mr. Habu",
+      "profileImg": "https://i.ibb.co/z2mw9PH/habu.jpg",
+      "details": "Mr. Habu is professional Java Developer since 1952."
+    },
     "details": "Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology."
   },
   {
     "id": "3",
     "courseName": "Flutter Development",
-    "image": "https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png",
+    "image": "https://i.ibb.co/jyYkRzd/flutter-course.png",
     "rating": "4.9",
     "price": "8000",
     "students": "2318",
+    "videos": "50",
+    "quiz": "10",
+    "instractor": {
+      "name": "Mr Kabila",
+      "profileImg": "https://i.ibb.co/4SbKsV5/kabila.jpg",
+      "details": "Mr Kabila is professional Flutter Developer since 1969."
+    },
     "details": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase."
   },
   {
     "id": "4",
     "courseName": "WordPress Development",
-    "image": "https://miro.medium.com/max/750/1*uDJTLivemR18proTkBsMEQ.jpeg",
+    "image": "https://i.ibb.co/1K225kn/wordpress-course.jpg",
     "rating": "4.6",
     "price": "4000",
     "students": "7602",
+    "videos": "40",
+    "quiz": "10",
+    "instractor": {
+      "name": "Mr. Pasha",
+      "profileImg": "https://i.ibb.co/zFJ7vWt/pasha.jpg",
+      "details": "Mr. Pasha is professional WordPress Developer since 1975."
+    },
     "details": "A WordPress developer is a type of web developer. They specialize in building websites with WordPress. They are also full-stack developers, meaning they can develop the front-end and back-end of a website. A WordPress developer may be hired to enhance the WordPress software or build a custom website for a client."
   },
   {
     "id": "5",
     "courseName": "Graphics Design",
-    "image": "https://janeeagland.com/wp-content/uploads/2021/12/image-1.jpg",
+    "image": "https://i.ibb.co/Sv80McK/graphics-course.jpg",
     "rating": "4.4",
     "price": "5000",
     "students": "13292",
+    "videos": "120",
+    "quiz": "30",
+    "instractor": {
+      "name": "Mr. Shimul",
+      "profileImg": "https://i.ibb.co/yN4bY6z/shimul.jpg",
+      "details": "Mr. Shimul is professional Graphics Designer since 1966."
+    },
     "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts."
   },
   {
     "id": "6",
     "courseName": "UI/UX Design",
-    "image": "https://miro.medium.com/max/1400/1*5FF-WiNYehgcBgtgAka1Og.png",
+    "image": "https://i.ibb.co/NxtyHF2/ui-course.png",
     "rating": "3.9",
     "price": "5000",
     "students": "1220",
+    "videos": "70",
+    "quiz": "10",
+    "instractor": {
+      "name": "Md Borhan",
+      "profileImg": "https://i.ibb.co/DMVsbsC/borhan.jpg",
+      "details": "Md Borhan is professional UI/UX Designer since 1999."
+    },
     "details": "UI refers to the screens, buttons, toggles, icons, and other visual elements that you interact with when using a website, app, or other electronic device. UX refers to the entire interaction you have with a product, including how you feel about the interaction."
   }
 ]
