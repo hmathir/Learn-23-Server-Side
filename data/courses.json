@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "courseName": "Web Development",
+    "image": "https://images.pexels.com/photos/10306256/pexels-photo-10306256.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "rating": "4.3",
+    "price": "4000"
+  },
+  {
+    "id": "2",
+    "courseName": "Java Development",
+    "image": "",
+    "rating": "4.1",
+    "price": "8000"
+  },
+  {
+    "id": "3",
+    "courseName": "Flutter Development",
+    "image": "",
+    "rating": "4.9",
+    "price": "8000"
+  },
+  {
+    "id": "4",
+    "courseName": "WordPress Development",
+    "image": "",
+    "rating": "4.6",
+    "price": "4000"
+  },
+  {
+    "id": "5",
+    "courseName": "Graphics Design",
+    "image": "",
+    "rating": "4.4",
+    "price": "5000"
+  },
+  {
+    "id": "5",
+    "courseName": "UI/UX Design",
+    "image": "",
+    "rating": "3.9",
+    "price": "5000"
+  }
+]
