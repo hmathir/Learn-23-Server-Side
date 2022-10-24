@@ -13,7 +13,8 @@
       "profileImg": "https://i.ibb.co/0CXYcq6/jhankar-bhai.jpg",
       "details": "Jhankar Mahbub is professional Full Stack Developer since 1971."
     },
-    "details": "A full stack web developer is a person who can develop both client and server software. In addition to mastering HTML and CSS, he/she also knows how to: Program a browser (like using JavaScript, jQuery, Angular, or Vue) Program a server (like using PHP, ASP, Python, or Node)."
+    "details": "A full stack web developer is a person who can develop both client and server software. In addition to mastering HTML and CSS, he/she also knows how to: Program a browser (like using JavaScript, jQuery, Angular, or Vue) Program a server (like using PHP, ASP, Python, or Node).",
+    "category": "1"
   },
   {
     "id": "2",
@@ -29,7 +30,8 @@
       "profileImg": "https://i.ibb.co/z2mw9PH/habu.jpg",
       "details": "Mr. Habu is professional Java Developer since 1952."
     },
-    "details": "Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology."
+    "details": "Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology.",
+    "category": "1"
   },
   {
     "id": "3",
@@ -45,7 +47,8 @@
       "profileImg": "https://i.ibb.co/4SbKsV5/kabila.jpg",
       "details": "Mr Kabila is professional Flutter Developer since 1969."
     },
-    "details": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase."
+    "details": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase.",
+    "category": "1"
   },
   {
     "id": "4",
@@ -61,7 +64,8 @@
       "profileImg": "https://i.ibb.co/zFJ7vWt/pasha.jpg",
       "details": "Mr. Pasha is professional WordPress Developer since 1975."
     },
-    "details": "A WordPress developer is a type of web developer. They specialize in building websites with WordPress. They are also full-stack developers, meaning they can develop the front-end and back-end of a website. A WordPress developer may be hired to enhance the WordPress software or build a custom website for a client."
+    "details": "A WordPress developer is a type of web developer. They specialize in building websites with WordPress. They are also full-stack developers, meaning they can develop the front-end and back-end of a website. A WordPress developer may be hired to enhance the WordPress software or build a custom website for a client.",
+    "category": "1"
   },
   {
     "id": "5",
@@ -77,7 +81,8 @@
       "profileImg": "https://i.ibb.co/yN4bY6z/shimul.jpg",
       "details": "Mr. Shimul is professional Graphics Designer since 1966."
     },
-    "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts."
+    "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts.",
+    "category": "2"
   },
   {
     "id": "6",
@@ -93,6 +98,7 @@
       "profileImg": "https://i.ibb.co/DMVsbsC/borhan.jpg",
       "details": "Md Borhan is professional UI/UX Designer since 1999."
     },
-    "details": "UI refers to the screens, buttons, toggles, icons, and other visual elements that you interact with when using a website, app, or other electronic device. UX refers to the entire interaction you have with a product, including how you feel about the interaction."
+    "details": "UI refers to the screens, buttons, toggles, icons, and other visual elements that you interact with when using a website, app, or other electronic device. UX refers to the entire interaction you have with a product, including how you feel about the interaction.",
+    "category": "2"
   }
 ]
