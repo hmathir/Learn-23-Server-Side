@@ -38,7 +38,7 @@
   {
     "id": "5",
     "courseName": "Graphics Design",
-    "image": "",
+    "image": "https://janeeagland.com/wp-content/uploads/2021/12/image-1.jpg",
     "rating": "4.4",
     "price": "5000",
     "students": "13292",
@@ -47,8 +47,10 @@
   {
     "id": "5",
     "courseName": "UI/UX Design",
-    "image": "",
+    "image": "https://miro.medium.com/max/1400/1*5FF-WiNYehgcBgtgAka1Og.png",
     "rating": "3.9",
-    "price": "5000"
+    "price": "5000",
+    "students": "1220",
+    "details": "UI refers to the screens, buttons, toggles, icons, and other visual elements that you interact with when using a website, app, or other electronic device. UX refers to the entire interaction you have with a product, including how you feel about the interaction."
   }
 ]
