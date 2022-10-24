@@ -1,38 +1,48 @@
 [
   {
     "id": "1",
-    "courseName": "Web Development",
-    "image": "https://images.pexels.com/photos/10306256/pexels-photo-10306256.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
+    "courseName": "Full Stack Development",
+    "image": "https://miro.medium.com/max/800/0*ZEPJsASfB2z7hi_0",
     "rating": "4.3",
-    "price": "4000"
+    "price": "4000",
+    "students": "3401",
+    "details": "A full stack web developer is a person who can develop both client and server software. In addition to mastering HTML and CSS, he/she also knows how to: Program a browser (like using JavaScript, jQuery, Angular, or Vue) Program a server (like using PHP, ASP, Python, or Node)."
   },
   {
     "id": "2",
-    "courseName": "Java Development",
-    "image": "",
+    "courseName": "Java Programming",
+    "image": "https://www.jrebel.com/sites/default/files/image/2020-05/image-blog-revel-top-java-tools.jpg",
     "rating": "4.1",
-    "price": "8000"
+    "price": "8000",
+    "students": "1502",
+    "details": "Our core Java programming tutorial is designed for students and working professionals. Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language. It is a widely used robust technology."
   },
   {
     "id": "3",
     "courseName": "Flutter Development",
-    "image": "",
+    "image": "https://uploads-ssl.webflow.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png",
     "rating": "4.9",
-    "price": "8000"
+    "price": "8000",
+    "students": "2318",
+    "details": "Flutter is an open-source UI software development kit created by Google. It is used to develop cross platform applications for Android, iOS, Linux, macOS, Windows, Google Fuchsia, and the web from a single codebase."
   },
   {
     "id": "4",
     "courseName": "WordPress Development",
-    "image": "",
+    "image": "https://miro.medium.com/max/750/1*uDJTLivemR18proTkBsMEQ.jpeg",
     "rating": "4.6",
-    "price": "4000"
+    "price": "4000",
+    "students": "7602",
+    "details": "A WordPress developer is a type of web developer. They specialize in building websites with WordPress. They are also full-stack developers, meaning they can develop the front-end and back-end of a website. A WordPress developer may be hired to enhance the WordPress software or build a custom website for a client."
   },
   {
     "id": "5",
     "courseName": "Graphics Design",
     "image": "",
     "rating": "4.4",
-    "price": "5000"
+    "price": "5000",
+    "students": "13292",
+    "details": "Graphic design is a profession, applied art and academic discipline whose activity consists in projecting visual communications intended to transmit specific messages to social groups, with specific objectives. Graphic design is an interdisciplinary branch of design and of the fine arts."
   },
   {
     "id": "5",
